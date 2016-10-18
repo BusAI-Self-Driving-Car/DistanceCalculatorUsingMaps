@@ -1,0 +1,7 @@
+#Mon Oct 17 20:35:08 IST 2016
+base.0=C\:\\Users\\KUNAL\\Desktop\\For Github\\DistanceCalculatorUsingMaps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5221e4d577bb59349320dfb38c0a6e378582ef55
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\KUNAL\\Desktop\\For Github\\DistanceCalculatorUsingMaps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_241886995eff48f8cc2c3a8578e17665d1bb7bd2\\classes.dex
+base.1=C\:\\Users\\KUNAL\\Desktop\\For Github\\DistanceCalculatorUsingMaps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_241886995eff48f8cc2c3a8578e17665d1bb7bd2
+file.0=C\:\\Users\\KUNAL\\Desktop\\For Github\\DistanceCalculatorUsingMaps\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5221e4d577bb59349320dfb38c0a6e378582ef55\\classes.dex

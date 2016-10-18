@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_25c347edb7767dbb921a41167379387369ddcdb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c3ba309f7cea258f9a359a18d053086f21f73ba">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5221e4d577bb59349320dfb38c0a6e378582ef55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_0a753389bbc40a027d0463bb89aa60d79181e984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bcc01699e25cf6366ca0e1abf150023de705f21">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_241886995eff48f8cc2c3a8578e17665d1bb7bd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_1fd9932adb4513be449e6c38425c6029a4773e6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e08570cca7e5d86ef191a7b6ea56415ce106f8d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_949832c09cbd8eb0b05a70f994578d9e8d046309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_c62d035a5c18c3b31e421c7e885f5697f1af23ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KUNAL\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\Users\KUNAL\Desktop\For Github\DistanceCalculatorUsingMaps\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.4.1_80214268c46af9ed8ebe5d1b70f57f69222132dd\classes.dex" />
+    </item>
+
+</items>
